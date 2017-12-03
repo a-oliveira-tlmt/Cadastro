@@ -9,7 +9,7 @@ Adaptado da rotina de Prof. Rhavy Maia
 from Participante import Participante
 
 def main(args=[]):
-    opcao = 1
+    opcao = None
     part = Participante("nome", "email", "nascimento")
     while opcao != '0':
         print("\n\nBem vindo ao Gerenciador de Eventos! O que deseja? ")
