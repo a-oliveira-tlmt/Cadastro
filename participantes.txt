@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Angelica Ramos",
+        "email": "a.ramos96@outlook.com",
+        "nascimento": "1996-08-22"
+    },
+    {
+        "nome": "Tiago Henrique",
+        "email": "tiaguinhoda_vila@gmail.com",
+        "nascimento": "1995-11-29"
+    },
+    {
+        "nome": "Ubirajara Rossi",
+        "email": "ubirajara.rossi@ee.ufcg.edu.br",
+        "nascimento": "1998-01-09"
+    },
+    {
+        "nome": "Mateus Macedo",
+        "email": "mmacedo1999@ig.com.br",
+        "nascimento": "1999-10-11"
+    },
+    {
+        "nome": "Arthur Oliveira",
+        "email": "a.oliveira.tlmt@gmail.com",
+        "nascimento": "1991-06-08"
+    }
+]
